@@ -31,6 +31,6 @@ Using R for analysis of data and flights dataset and solving the following quest
 21. Subtract vec2 from vec1 and look at the result
 22. Use seq() to make a vector of 100 values starting at 2 and increasing by 3 each time and store it in a new variable
 23. Extract the values at positions 5,10,15 and 20 in the vector of 100 values you made.
-24. Extract the values at positions 10 to 30 in the vector of 100 values you made. 
+24. Extract the values at positions 10 to 30 in the vector of 100 values you made.   
 Using the dplyr R package, and the dataset flights, which is part of the package (we saw in class - R for Data Science):
 25. Find all flights that were delayed by at least an hour, but made up over 30 minutes in flight.
